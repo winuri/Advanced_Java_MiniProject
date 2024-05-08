@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring-Boot-Auction-App-dev/AuctionApp.iml" filepath="$PROJECT_DIR$/Spring-Boot-Auction-App-dev/AuctionApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring-Boot-Auction-App-dev.iml" filepath="$PROJECT_DIR$/.idea/Spring-Boot-Auction-App-dev.iml" />
+    </modules>
+  </component>
+</project>
